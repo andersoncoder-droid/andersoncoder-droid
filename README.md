@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Anderson Losada </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img align="right" width=150px alt="codingCat" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVtZmhwMWNidjJtaHFuenkyMjZlZWR1MDMzNG13cGpicG4zazcyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a Software Engineering Student, currently halfway through my degree. I'm learning both front-end and back-end development.
@@ -16,6 +18,4 @@ I'm a Software Engineering Student, currently halfway through my degree. I'm lea
 
 ![](https://github-readme-stats.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=andersoncoder-droid&theme=catppuccin_mocha&hide_border=true)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncoder-droid&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncoder-droid&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
