@@ -8,5 +8,4 @@ I'm a Software Engineering Student, currently halfway through my degree. I'm lea
 ## Learning
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 ## GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/andersoncoder-droid)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=andersoncoder-droid&theme=material-palenight)](https://github.com/andersoncoder-droid)
+[![](https://github-readme-stats.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/andersoncoder-droid) [![](https://github-readme-streak-stats.herokuapp.com/?user=andersoncoder-droid&theme=material-palenight)](https://github.com/andersoncoder-droid)
