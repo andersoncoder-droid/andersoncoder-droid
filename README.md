@@ -9,6 +9,7 @@ I'm a Software Engineering Student, currently halfway through my degree. I'm lea
 ## My Skills
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncoder-droid&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Learning
 
@@ -18,4 +19,3 @@ I'm a Software Engineering Student, currently halfway through my degree. I'm lea
 
 ![](https://github-readme-stats.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=andersoncoder-droid&theme=catppuccin_mocha&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncoder-droid&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
