@@ -14,3 +14,9 @@ Currently halfway through my degree. I'm learning both front-end and back-end de
 ## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=holi&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersoncoder-droid/andersoncoder-droid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersoncoder-droid/andersoncoder-droid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andersoncoder-droid/andersoncoder-droid/output/github-snake.svg" />
+</picture>
