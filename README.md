@@ -8,7 +8,7 @@ Currently halfway through my degree. I'm learning both front-end and back-end de
 <tr>
 <td width="50%" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=,react,androidstudio,xcode,figma,)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,expo,androidstudio,xcode,figma)](https://skillicons.dev)
 
 </td>
 <td width="50%" align="center">
