@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/Obi Banner.png" alt="Banner" width="100%"/>
+</div>
+
 # 🚀 Anderson Losada - **Developer**
 
 Developer exploring different areas of software.
