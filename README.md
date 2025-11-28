@@ -1,14 +1,15 @@
-# 🚀 Anderson Losada - **Software Engineering Student**
+# 🚀 Anderson Losada - **Developer**
 
-Currently halfway through my degree. I'm learning both front-end and back-end development.
+Developer exploring different areas of software.
+I enjoy creating things, learning new technologies, and leveling up one project at a time.
 
-## 💻 My Skills & Stats
+## ⚡ Skills & Stats
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,expo,androidstudio,xcode,figma)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma&perline=3)](https://skillicons.dev)
 
 </td>
 <td width="50%" align="center">
