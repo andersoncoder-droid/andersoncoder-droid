@@ -2,7 +2,7 @@
   <img src="assets/Final Banner.png" alt="Banner" width="100%"/>
 </div>
 
-# 🚀 Anderson Losada - **Developer**
+# 🚀 Anderson Losada
 
 Developer exploring different areas of software.
 I enjoy creating things, learning new technologies, and leveling up one project at a time.
