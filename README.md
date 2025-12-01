@@ -7,7 +7,7 @@
 Developer exploring different areas of software.
 I enjoy creating things, learning new technologies, and leveling up one project at a time.
 
-# ⚡ Skills & Stats
+# ⚡ Skills
 
 <div align="center">
 
