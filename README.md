@@ -11,7 +11,7 @@ I enjoy creating things, learning new technologies, and leveling up one project 
 
 <div align="center">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma&theme=dark)](https://skillicons.dev)
 
 <br/>
 
