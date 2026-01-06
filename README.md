@@ -15,7 +15,7 @@ I enjoy creating things, learning new technologies, and leveling up one project 
 
 <br/>
 
-![GithubStats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github)
+![GithubStats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersoncoder-droid&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&bg_color=0d1117&title_color=89dceb&text_color=cdd6f4&icon_color=fab387&ring_color=89b4fa)
 
 </div>
 
